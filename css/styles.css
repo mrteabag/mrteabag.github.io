@@ -23,11 +23,11 @@
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
   --bs-white: #fff;
-  --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
-  --bs-gray-100: #f8f9fa;
-  --bs-gray-200: #e9ecef;
-  --bs-gray-300: #dee2e6;
+  --bs-gray: #ffffff;
+  --bs-gray-dark: #ffffff;
+  --bs-gray-100: #ffffff;
+  --bs-gray-200: #ffffff;
+  --bs-gray-300: #ffffff;
   --bs-gray-400: #ced4da;
   --bs-gray-500: #adb5bd;
   --bs-gray-600: #6c757d;
@@ -74,7 +74,7 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #f8ff2e;
-  --bs-link-hover-color: #974a2d;
+  --bs-link-hover-color: #1af7ff;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
