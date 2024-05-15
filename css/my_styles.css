@@ -13,7 +13,7 @@ h2.redred{
 }
 
 h2.blueblue{
-    color: blue;
+    color: rgb(255, 255, 255);
 }
 
 .testtest{
@@ -82,4 +82,29 @@ h3.greengreen{
 
 .school{
     color: white;
+}
+
+.expedu_icon{
+    color: aqua;
+    padding: 5px 10px 5px 10px;
+}
+
+.expedu_icon:hover{
+    background-color: aqua;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    margin: 5px;
+}
+
+.whitecolor{
+    color: white!important;
+}
+
+.bor-15{
+    border-radius: 15px;
+}
+
+.notransform{
+    text-transform: none !important;
 }
