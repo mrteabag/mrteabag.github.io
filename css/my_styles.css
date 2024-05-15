@@ -1,0 +1,85 @@
+h1{
+    color: rgb(255, 255, 255);
+    padding: 10px 0px 10px 0dvh;
+    width: 75%;
+}
+/*rgb(47, 62, 148)*/
+h2.redred{
+    background-color: rgb(255, 0, 128);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 0px 10px 50px;
+    width: 50%;
+}
+
+h2.blueblue{
+    color: blue;
+}
+
+.testtest{
+   color:rgb(255, 255, 255);
+   font-size: 20px!important;
+   text-align: left;
+   text-transform: uppercase;
+   text-indent: 2em;
+   letter-spacing: 0.6px;
+   line-height: 40px; 
+   
+   border-color: rgba(0, 0, 0, 0.541);
+   padding: 20px;
+   border-radius: 15px;
+}
+
+.workwork{
+   color:rgb(255, 255, 255);
+   background-color: rgba(0, 0, 0, 0.704);
+   font-size: 20px!important;
+   text-align: left;
+   text-transform: uppercase;
+   text-indent: 2em;
+   letter-spacing: 0.6px;
+   line-height: 40px;
+   padding: 20px;
+   border-radius: 15px;
+}
+
+#experience{
+    background-color: rgb(47, 62, 148);
+    color: white;
+}
+
+section#experience h3{
+    color: white!important;
+}
+
+#sideNav{
+    background-color: rgb(240, 63, 146) !important;
+}
+
+#about{
+    background-color: rgb(47, 62, 148);    
+    color: white;  
+}
+
+.border10{
+    border-radius: 20px;
+    border: 0px solid;
+    border-color: white;
+    
+}
+.tea{
+    width: 800px;
+}
+
+h3.greengreen{
+    color: aquamarine !important;
+    color: white;
+}
+
+.resume-section{
+    background-color:rgb(47, 62, 148);
+}
+
+.school{
+    color: white;
+}
